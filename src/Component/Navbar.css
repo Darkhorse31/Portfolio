@@ -1,0 +1,69 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&family=MonteCarlo&family=Raleway:wght@100&family=Source+Sans+Pro:wght@200&display=swap');
+
+.navbar {
+  margin-top: 2rem;
+  width: 100%;
+  height: 7rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.navbar > .brand {
+  font-size: 5rem;
+  font-weight: bolder;
+  font-family: 'Comforter Brush', cursive;
+  font-family: 'MonteCarlo', cursive;
+  color: #400080;
+}
+.navbar > .info {
+  display: flex;
+}
+.info > ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+ul > li {
+  margin-inline: 3rem;
+}
+li > .Ser {
+  text-decoration: none;
+  font-size: 2rem;
+  font-weight: 400;
+  color: rgb(46, 40, 40);
+}
+li > a >button
+{
+    width: 12rem;
+    background-color: transparent;
+    padding: 1rem;
+    border-radius: 2rem;
+    font-size: 1.8rem;
+    color: #400080;
+    border:2px solid #400080;
+}
+li > a >button:hover
+{
+    color: white;
+    background-color:#400080;
+    transition: .5s;
+}
+@media only screen and (max-width: 768px) {
+
+  .navbar > .brand {
+    font-size: 5rem;
+    font-weight: bolder;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'MonteCarlo', cursive;
+    color: #400080;
+  }
+  ul
+  {
+    display: flex;
+    flex-direction: column;
+    inset: 0% 0% 100% 30%;
+    z-index: 5555;
+  }
+}

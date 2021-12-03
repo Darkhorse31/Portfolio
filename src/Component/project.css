@@ -1,0 +1,34 @@
+.Project
+{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 4rem;
+    justify-content: space-evenly;
+    padding-bottom:2rem;
+    margin-bottom: 7rem;
+}
+.Project > .mainProject
+{
+    font-size: 3rem;
+    font-weight: 800;
+    text-decoration: underline;
+    margin-bottom: 2rem;
+   
+}
+.Project > .WorkProject
+{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 5rem;
+    margin-top: 3rem;
+
+}
+.WorkProject > .ProjectName
+{
+    width: 40rem;
+    height: 26rem;
+    border-radius: 2rem;
+    box-shadow: 5px 5px 5px 0px rgba(117, 116, 116, 0.3);
+}

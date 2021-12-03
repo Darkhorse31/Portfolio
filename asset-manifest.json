@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.9d10acc6.chunk.css",
+    "main.js": "/Portfolio/static/js/main.320e4e05.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.320e4e05.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.a22d6cae.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.a22d6cae.js.map",
+    "static/js/2.0a7dc64d.chunk.js": "/Portfolio/static/js/2.0a7dc64d.chunk.js",
+    "static/js/2.0a7dc64d.chunk.js.map": "/Portfolio/static/js/2.0a7dc64d.chunk.js.map",
+    "static/js/3.c4415465.chunk.js": "/Portfolio/static/js/3.c4415465.chunk.js",
+    "static/js/3.c4415465.chunk.js.map": "/Portfolio/static/js/3.c4415465.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.9d10acc6.chunk.css.map": "/Portfolio/static/css/main.9d10acc6.chunk.css.map",
+    "static/js/2.0a7dc64d.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.0a7dc64d.chunk.js.LICENSE.txt",
+    "static/media/Avtar.454674d0.png": "/Portfolio/static/media/Avtar.454674d0.png",
+    "static/media/Prateek.29dbc747.png": "/Portfolio/static/media/Prateek.29dbc747.png",
+    "static/media/img2.c108fdc3.png": "/Portfolio/static/media/img2.c108fdc3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a22d6cae.js",
+    "static/js/2.0a7dc64d.chunk.js",
+    "static/css/main.9d10acc6.chunk.css",
+    "static/js/main.320e4e05.chunk.js"
+  ]
+}

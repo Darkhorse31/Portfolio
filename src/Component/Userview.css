@@ -53,6 +53,15 @@
   }
 }
 @media only screen and (max-width: 768px) {
+  .UserviewMainDiv
+  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 90vh;
+    justify-content: space-between;
+  }
   .introdiv
   {
    text-align: center; 
